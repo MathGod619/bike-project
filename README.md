@@ -10,7 +10,7 @@ Bike Share Project
 Provides anaylsis for 3 cities bike share data
 
 ### Files used
-bikeshare.py, and 3 .csv files
+bikeshare.py, and 3 .csv files from three cities (Chicago, NYC, Washington)
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
