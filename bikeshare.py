@@ -2,6 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
+##CREDIT TO ANTHONY PUTARO##
     # data to be used in the program
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
@@ -308,3 +309,6 @@ def main():
 
 if __name__ == "__main__":
 	main()
+#this project was so fun!
+
+#Completed in August 2022
