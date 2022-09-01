@@ -7,7 +7,7 @@ August 31st, 2022
 Bike Share Project
 
 ### Description
-Provides anaylsis for 3 cities bike share data
+Provides anaylsis for 3 cities bike share data based on user prompts.
 
 ### Files used
 bikeshare.py, and 3 .csv files from three cities (Chicago, NYC, Washington)
